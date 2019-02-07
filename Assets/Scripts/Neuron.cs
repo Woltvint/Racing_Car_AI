@@ -28,7 +28,7 @@ public class Neuron
             }
             else
             {
-                w.Add(Random.Range(-1.0f,1.0f));
+                w.Add(0/*Random.Range(-1.0f,1.0f)*/);
             }
         }
 

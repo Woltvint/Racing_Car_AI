@@ -12,6 +12,7 @@ TagManager:
   - Start
   - TargetLeftSide
   - TargetRightSide
+  - GenText
   layers:
   - Default
   - TransparentFX
